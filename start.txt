@@ -1,0 +1,7 @@
+ yarn init -y
+ yarn add express
+ yarn add nodemon -D
+
+ yarn add uuid
+
+ yarn dev (para subir a aplicacao)
